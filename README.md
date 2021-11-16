@@ -16,8 +16,8 @@
 
 ### :wave: Contact
 
-- LinkedIn: :blue_book: [www.linkedin.com/in/paulsplanet/](https://www.linkedin.com/in/paulsplanet/)
-- Portfolio: :books: [paulsplanet.netlify.app](https://paulsplanet.netlify.app)
+- LinkedIn: :blue_book: [www.linkedin.com/in/paulsplanet/](https://www.linkedin.com/in/paulsplanet/){:target="_blank" rel="noopener"}
+- Portfolio: :books: [paulsplanet.netlify.app](https://paulsplanet.netlify.app){:target="_blank" rel="noopener"}
 - Email: :email: paulsplanet612@gmail.com 
 
 
