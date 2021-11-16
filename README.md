@@ -1,6 +1,11 @@
 ## G'Day! :sunny:
 ## ✨ Who is Paul Hahm ?? ✨
 
+- :desktop_computer: I'm a Frontend Developer
+- :book: Passion for programming and Self Developing 
+
+### :label: Skills
+
 <!--
 **paulsplanet/paulsplanet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
