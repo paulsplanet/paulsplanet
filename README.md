@@ -16,8 +16,8 @@
 
 ### :wave: Contact
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulsplanet/)
-- Portfolio: :books: [https://paulsplanet.netlify.app](https://paulsplanet.netlify.app)
+- LinkedIn: :blue_book: [www.linkedin.com/in/paulsplanet/](https://www.linkedin.com/in/paulsplanet/)
+- Portfolio: :books: [paulsplanet.netlify.app](https://paulsplanet.netlify.app)
 - Email: :email: paulsplanet612@gmail.com 
 
 
